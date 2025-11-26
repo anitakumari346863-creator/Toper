@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Voice Assistant",
+  "description": "A dedicated Voice AI assistant powered by Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
